@@ -7,21 +7,6 @@ Anthor é uma aplicação full stack web, desenvolvida com  React JS,  construí
 
 A aplicação consiste em um catálogo de filmes que podem ser filtrados por nomes, e o usuário adicionar ou remover dos "salvos" e então adicionar opnião ou nota para os filmes.
 
-
-## Layout web
-
-![Web 1](https://raw.githack.com/HenriqueoJunior/Anthorflix/master/src/images/Home.png)
-
-![Web 2](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Home2.png)
-
-![Web 3](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Salvos.png)
-
-![Web 4](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Salvos2.png)
-
-
-
-
-
 # Como executar o projeto?
 
 Pré-requisitos: npm / yarn
