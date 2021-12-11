@@ -10,13 +10,13 @@ A aplicação consiste em um catálogo de filmes que podem ser filtrados por nom
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/src/images/Home.png)
+![Web 1](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Home.png)
 
-![Web 2](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/src/images/Home2.png)
+![Web 2](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Home2.png)
 
-![Web 3](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/src/images/Salvos.png)
+![Web 3](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Salvos.png)
 
-![Web 4](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/src/images/Salvos2.png)
+![Web 4](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Salvos2.png)
 
 
 
