@@ -2,7 +2,6 @@
 
 # Sobre o projeto
 
-
 Anthor é uma aplicação full stack web, desenvolvida com  React JS,  construída em 2 dias para processo seletivo da Anthor!
 
 A aplicação consiste em um catálogo de filmes que podem ser filtrados por nomes, e o usuário adicionar ou remover dos "salvos" e então adicionar opnião ou nota para os filmes.
