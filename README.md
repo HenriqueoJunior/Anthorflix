@@ -10,7 +10,7 @@ A aplicação consiste em um catálogo de filmes que podem ser filtrados por nom
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Home.png)
+![Web 1](https://raw.githack.com/HenriqueoJunior/Anthorflix/master/src/images/Home.png)
 
 ![Web 2](https://raw.githubusercontent.com/HenriqueoJunior/Anthorflix/main/src/images/Home2.png)
 
@@ -29,7 +29,7 @@ Pré-requisitos: npm / yarn
 ```
 # clonar repositório
 git clone https://github.com/HenriqueoJunior/Anthorflix.git
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto
 cd Anthorflix
 # instalar dependências
 npm install
