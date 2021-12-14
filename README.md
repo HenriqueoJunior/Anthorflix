@@ -23,7 +23,7 @@ npm start
 
 # Bugs conhecidos? 
 
-Ao exluir um filme, o formulario dele não é deletado e sim passado para o proximo filme da lista.
+Ao excluir um filme, o formulario dele não é deletado e sim passado para o proximo filme da lista.
 
 
 
